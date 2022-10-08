@@ -1,0 +1,32 @@
+body{
+  font-family: 'Georgia', cursive;
+  /* text-align: center; */
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+.Language{
+  float: right;
+}
+.a{
+  font-weight: bold;
+}
+.s
+{
+  text-decoration: none;
+  border: 3px solid;
+}
+a{
+  text-decoration: none;
+  font-size: 1.75rem;
+  color: #06283D;
+}
+.S{
+  /* background-color: #FFD384;
+  background-image: linear-gradient(#628E90 20%, #B4CDE6 30%, #F5EFE6 50%); */
+  background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+.H{
+  background-color: #FAACA8;
+background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
+}

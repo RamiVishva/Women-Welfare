@@ -1,0 +1,66 @@
+body{
+  /* background-image: url(image/background.png); */
+  font-family: 'Georgia', cursive;
+  background-color: #D9AFD9;
+  text-align: center;
+/* background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%); */
+background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+background-repeat: no-repeat;
+background-size: auto;
+}
+.Language{
+  float: right;
+}
+.x{
+  display: inline-block;
+  position: relative;
+}
+header{
+  border: 1px gray solid ;
+}
+.Title{
+  /* position: relative;
+  display: inline-block; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2%;
+}
+.Contact{
+  border: 1px solid;
+  padding: 2%;
+}
+.C{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.img1{
+  border-radius: 100%;
+}
+.c{
+  text-align: right;
+}
+.e{
+  font-size: 1.5rem;
+}
+.a{
+    font-weight: bold;
+}
+li{
+  font-size: 2rem;
+}
+.d{
+  position: relative;
+  display: inline-block;
+  margin: 2%;
+  border: 1px solid black;
+  border-radius: 12px;
+  padding: 5px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.d img{
+  border-radius: 12px;
+}
