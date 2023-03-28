@@ -63,7 +63,6 @@ li{
 }
 .d img{
   /* border-radius: 12px; */
-  transform: skew(3deg,3deg);
 }
 .d :before
 {
@@ -73,7 +72,6 @@ li{
   left:-2px;
   right:-2px;
   bottom: -2px;
-  transform:skew(3deg,3deg);
-  background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);transform: skew(3deg,3deg);
+  background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
   z-index: -1;
 }
